@@ -388,3 +388,4 @@ help [[
 ./countdown.sh -9
 __vsc_prompt_cmd_original
 help
+./countdown.sh 10
