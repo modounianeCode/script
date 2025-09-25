@@ -152,3 +152,4 @@ echo Hello < name > .
 echo Hello < name > .
 echo
 ./questionnaire.sh
+./questionnaire.sh
