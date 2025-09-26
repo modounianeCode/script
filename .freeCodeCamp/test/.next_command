@@ -913,3 +913,5 @@ echo $*
 echo $@
 echo $@
 echo ${ARR[@]}
+declare -p
+declare -p ARR
