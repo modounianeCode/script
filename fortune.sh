@@ -8,6 +8,7 @@ GET_FORTUNE() {
   if [[ ! $1 ]]; then
     echo "Ask a yes or no question:"
     read QUESTION
+    echo -e "\n${RESPONSES[$N]}"
   else
     echo "Try again. Make sure it ends with a question mark:"
     read QUESTION
