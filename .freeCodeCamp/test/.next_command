@@ -931,3 +931,4 @@ help [[
 [[ hello =~ hello ]]
 [[ hello =~ el ]]
 [[ 'hello world' =~ 'lo wor' ]]
+[[ 'hello world' =~ ^h ]]
