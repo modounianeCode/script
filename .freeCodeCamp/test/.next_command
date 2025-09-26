@@ -856,3 +856,8 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh
 git status
 touch fortune.sh
+git status
+git add fortune.sh
+git commit -m"ajout de fortune.sh"
+git push
+chmod +x fortune.sh
