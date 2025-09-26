@@ -928,3 +928,5 @@ help [[]]
 help [[
 [[ hello == hello ]]
 [[ hello == world ]]
+[[ hello =~ hello ]]
+[[ hello =~ el ]]
