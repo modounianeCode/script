@@ -921,3 +921,5 @@ help function
 ./fortune.sh
 ./fortune.sh
 help
+help until
+__vsc_prompt_cmd_original
