@@ -930,3 +930,4 @@ help [[
 [[ hello == world ]]
 [[ hello =~ hello ]]
 [[ hello =~ el ]]
+[[ 'hello world' =~ 'lo wor' ]]
